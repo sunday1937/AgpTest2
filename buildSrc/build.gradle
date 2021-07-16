@@ -1,0 +1,16 @@
+repositories {
+    google()
+    jcenter()
+}
+
+dependencies {
+//    implementation files('./builder-4.1.1.jar')
+//    implementation files('./builder-4.1.1.jar')
+//    configurations {
+//        all*.exclude group: 'com.android.tools.build', module: 'builder'
+//    }
+//    implementation 'com.android.tools.build:gradle:4.1.0'
+//    implementation 'com.android.tools.build:gradle:3.6.0'
+    implementation 'com.android.tools.build:gradle:3.5.0'
+
+}

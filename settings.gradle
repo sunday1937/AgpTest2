@@ -1,0 +1,4 @@
+include ':bizlib'
+include ':baselib'
+include ':app'
+rootProject.name = "AgpTest2"
